@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: br.com.pix.wallet.domain.PixTransferTest
--------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.004 s -- in br.com.pix.wallet.domain.PixTransferTest
